@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Samir Nayakawadi
 
-**Backend Engineer | Node.js | Spring Boot | Secure Systems | eLearning Platforms**
+**Backend Engineer | Node.js | Spring Boot | MySQL | Secure Systems**
 
 Backend-focused software engineer with **3.5+ years of professional experience** building **enterprise-grade government and eLearning platforms** at **C-DAC Hyderabad**. I specialize in designing **scalable, secure, and maintainable backend systems** and have delivered production-ready applications used at national scale.
 
