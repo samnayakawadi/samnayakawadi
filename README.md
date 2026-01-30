@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Samir Nayakawadi
 
-**Backend Engineer | Node.js | Spring Boot | MySQL | Secure Systems**
+**Backend Engineer | Node.js | Spring Boot | Secure Systems | eLearning Platforms**
 
 Backend-focused software engineer with **3.5+ years of professional experience** building **enterprise-grade government and eLearning platforms** at **C-DAC Hyderabad**. I specialize in designing **scalable, secure, and maintainable backend systems** and have delivered production-ready applications used at national scale.
 
@@ -100,20 +100,20 @@ Government platform for managing Indian Police Training Institutions.
 
 ---
 
+## 🎓 Education
+
+- **Bachelor of Technology (Computer Science – CST)**  
+  Shivaji University, Kolhapur | **83% (9.2 CGPA)**
+
+- **PG-DAC (Advanced Computing)**  
+  C-DAC Hyderabad | **Grade B**
+
+---
+
 ## 📊 GitHub Stats
 
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samnayakawadi/samnayakawadi&show_icons=true&theme=react)
-
-## 📊 GitHub Stats
-
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samnayakawadi&show_icons=true&theme=react&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samnayakawadi&layout=compact&theme=react&hide_border=true)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=samnayakawadi&theme=react&hide_border=true&fire=FF4500)
-
+![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samnayakawadi&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com?user=samirnayakawadi&theme=react)
 
 ---
 
