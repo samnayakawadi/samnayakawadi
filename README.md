@@ -6,6 +6,15 @@ Backend-focused software engineer with **3.5+ years of professional experience**
 
 ---
 
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samnayakawadiportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samnayakawadi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samnayakawadijobs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samirnayakawadi)
+
+---
+
 ## 🧑‍💻 What I Do
 
 - Design and build **RESTful APIs** using **Node.js, Express, and Spring Boot**
@@ -19,29 +28,25 @@ Backend-focused software engineer with **3.5+ years of professional experience**
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Node.js, Express.js  
-- Java, Spring Boot  
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Databases**
-- MySQL, MongoDB  
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**ORM / ODM**
-- Prisma, Mongoose  
+### APIs & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**APIs & Security**
-- REST APIs  
-- JWT Authentication  
-- Role-Based Access Control (RBAC)
-
-**Frontend (Working Knowledge)**
-- React.js  
-
-**Tools & Platforms**
-- Git, Postman, Hoppscotch  
-- Docker (basic)  
-- Netlify, Render  
-- AWS (basic)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -98,31 +103,17 @@ Government platform for managing Indian Police Training Institutions.
 ## 🎓 Education
 
 - **Bachelor of Technology (Computer Science – CST)**  
-  Department of Technology, Shivaji University, Kolhapur  
-  **83% (9.2 CGPA)** | 2017–2021
+  Shivaji University, Kolhapur | **83% (9.2 CGPA)**
 
-- **PG-DAC (Post Graduate Diploma in Advanced Computing)**  
-  C-DAC Hyderabad  
-  **Grade B** | 2021–2022
+- **PG-DAC (Advanced Computing)**  
+  C-DAC Hyderabad | **Grade B**
 
 ---
 
-## 🏆 Achievements & Activities
+## 📊 GitHub Stats
 
-- Drafted a research paper on **online proctoring systems**
-- Delivered multiple **enterprise and government platforms**
-- Mentored junior developers and DAC batches
-- Ethical Hacking Workshop — IIT Bombay
-- Member — 15th National Youth Parliament
-- 2nd Prize — Paper Presentation (Tatyasaheb Kore Institute)
-
----
-
-## 📫 Let’s Connect
-
-- 🌐 Portfolio: https://samnayakawadiportfolio.netlify.app/
-- 💼 LinkedIn: https://linkedin.com/in/samnayakawadi
-- 📧 Email: samnayakawadijobs@gmail.com 
+![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirnayakawadi&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com?user=samirnayakawadi&theme=react)
 
 ---
 
