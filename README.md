@@ -113,11 +113,7 @@ Government platform for managing Indian Police Training Institutions.
 ## 📊 GitHub Stats
 
 ![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samnayakawadi&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com?user=samnayakawadi&theme=react)
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=samnayakawadi&theme=react&hide_border=true&fire=FF4500)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=samnayakawadi&theme=highcontrast&hide_border=true&fire=FF6B6B&ring=58A6FF&currStreakLabel=58A6FF)
 
 ---
 
