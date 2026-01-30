@@ -102,7 +102,7 @@ Government platform for managing Indian Police Training Institutions.
 
 ## 📊 GitHub Stats
 
-![Samir's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samnayakawadi&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samnayakawadi&hide_border=true&count_private=true)
 
 ---
 
