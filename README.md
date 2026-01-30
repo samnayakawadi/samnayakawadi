@@ -120,10 +120,9 @@ Government platform for managing Indian Police Training Institutions.
 
 ## 📫 Let’s Connect
 
-- 🌐 Portfolio: https://sam.nayakawadi.com  
-- 💼 LinkedIn: *(add your LinkedIn URL)*  
-- 🧑‍💻 GitHub: *(this profile)*  
-- 📧 Email: *(optional)*  
+- 🌐 Portfolio: https://samnayakawadiportfolio.netlify.app/
+- 💼 LinkedIn: https://linkedin.com/in/samnayakawadi
+- 📧 Email: samnayakawadijobs@gmail.com 
 
 ---
 
