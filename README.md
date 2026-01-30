@@ -100,19 +100,9 @@ Government platform for managing Indian Police Training Institutions.
 
 ---
 
-## 🎓 Education
-
-- **Bachelor of Technology (Computer Science – CST)**  
-  Shivaji University, Kolhapur | **83% (9.2 CGPA)**
-
-- **PG-DAC (Advanced Computing)**  
-  C-DAC Hyderabad | **Grade B**
-
----
-
 ## 📊 GitHub Stats
 
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samnayakawadi&show_icons=true&theme=react)
+![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samnayakawadi/samnayakawadi&show_icons=true&theme=react)
 
 ---
 
